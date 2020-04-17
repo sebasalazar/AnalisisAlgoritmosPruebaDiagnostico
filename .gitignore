@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/PreguntaUno/build/
+/PreguntaUno/dist/
+
+nbproject
